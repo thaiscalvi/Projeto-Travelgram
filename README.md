@@ -16,8 +16,6 @@ A ideia foi simular uma página de perfil para uma viajante fictícia, Isabela T
 
 ## 📸 Visual do projeto
 
-<img src="https://raw.githubusercontent.com/thaiscalvi/Projeto-Travelgram/main/assets/images/Image-Preview.png" alt="Capa do projeto Travelgram" />
-
 ![image](https://github.com/user-attachments/assets/1c7d7de2-2ec1-4028-b7a2-6f6b6d126496)
 
 ---
